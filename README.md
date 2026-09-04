@@ -1,6 +1,3 @@
-# SaludPlus-Farmacias
-Caso Retail 5
-
 # SaludPlus Farmacias
 
 Este repositorio contiene el script SQL comentado para crear un Data Mart de ventas de SaludPlus Farmacias en PostgreSQL.
